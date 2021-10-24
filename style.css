@@ -518,7 +518,7 @@ span.underline.active{
         padding: 2rem;
     }
 }
-@media (max-width:320px) {
+@media (max-width:480px) {
     .navbar-begin{
         width:8rem;
         margin: 0;
