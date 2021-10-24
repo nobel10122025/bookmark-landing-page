@@ -24,11 +24,13 @@ Users should be able to:
   - The email address is not formatted correctly
 
 ### Screenshot
+![desktop-preview](https://user-images.githubusercontent.com/48177682/138589766-b8fe7090-4f7b-43d4-96ea-efbdcae60469.jpg)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/nobel10122025/bookmark-landing-page)
+- Live Site URL: [Click here](https://nobel10122025.github.io/bookmark-landing-page/index.html)
 
 ## My process
 
